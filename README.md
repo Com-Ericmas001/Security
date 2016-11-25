@@ -1,7 +1,8 @@
 # Com.Ericmas001.Security
+[![Build Status](https://travis-ci.org/Com-Ericmas001/Security.svg?branch=master)](https://travis-ci.org/Com-Ericmas001/Security)
+[![com-ericmas001 MyGet Build Status](https://www.myget.org/BuildSource/Badge/com-ericmas001?identifier=408a3b41-cb08-4612-a84d-abc41788ceec)](https://www.myget.org/)
 
-
-###Current Version: 1.0.0 *(2015-06-11)*
+###Current Version: 1.0.2 *(2016-11-24)*
 <table align="center" width="100%">
     <tbody>
         <tr>
